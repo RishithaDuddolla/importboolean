@@ -1,2 +1,2 @@
 const boolean = true;
-module.export = boolean;
+module.exports = boolean;
